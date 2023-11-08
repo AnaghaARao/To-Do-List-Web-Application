@@ -1,6 +1,6 @@
 # To-Do-List-Web-Application
 A dynamic and intuitive web application for managing your daily tasks and to-do lists effectively.
-#Features:
+# Features:
 - Create and remove tasks easily
 - Mark tasks as complete or incomplete with a simple click
 - User-friendly interface for efficient task management
